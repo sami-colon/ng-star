@@ -44,5 +44,11 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sami-colon/ng-star.git"
+  },
+  "keywords": ["Angular", "rating", "star", "generate"],
+  "author": "Abhishek Kumar"
 }
