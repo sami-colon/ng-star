@@ -22,6 +22,14 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## This Angular library generates stars (in yellow color) for rating provided in range of 0.0 to 5.0.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## To use this library:
+1) Npm install ng-star
+2) In angular component wherever you want to use it,
+
+   `<ng-star [rating]="2.5"></ng-star>`
+
+   2.5 stars with yellow color and remaining 2.5 stars with white color will be generated
+   
+## Published On NPM 'https://www.npmjs.com/package/ng-star'
