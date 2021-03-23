@@ -8,36 +8,7 @@ i
 }
 .gradientText
 {
-  font-size: 30px;
   display: inline;
-  background-image: linear-gradient(to right, white 0%, yellow 0% 100%);
   color: transparent;
   background-clip: text;
-}
-.gradient1{
-  background-image: linear-gradient(to right, yellow 10%, white 10% 100%);
-}
-.gradient2{
-  background-image: linear-gradient(to right, yellow 20%, white 20% 100%);
-}
-.gradient3{
-  background-image: linear-gradient(to right, yellow 30%, white 30% 100%);
-}
-.gradient4{
-  background-image: linear-gradient(to right, yellow 40%, white 40% 100%);
-}
-.gradient5{
-  background-image: linear-gradient(to right, yellow 50%, white 50% 100%);
-}
-.gradient6{
-  background-image: linear-gradient(to right, yellow 60%, white 60% 100%);
-}
-.gradient7{
-  background-image: linear-gradient(to right, yellow 70%, white 70% 100%);
-}
-.gradient8{
-  background-image: linear-gradient(to right, yellow 80%, white 80% 100%);
-}
-.gradient9{
-  background-image: linear-gradient(to right, yellow 90%, white 90% 100%);
 }
